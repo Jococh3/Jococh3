@@ -7,7 +7,7 @@ Data Science graduate student focused on machine learning, data visualization, a
 
 ### Interactive analytics dashboard exploring global video game sales trends.
 Live App:
-https://video-game-sales-dashboard.streamlit.app
+https://video-game-sales-dashboard-d4z4scm3appquymxbhzfte.streamlit.app/
 
 Repository:
 https://github.com/Jococh3/video-game-sales-dashboard
