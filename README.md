@@ -1,6 +1,6 @@
 # Joshua Cochran
 
-Data Science graduate student focused on machine learning, data visualization, and analytics.
+Graduate student focused on data science, cloud engineering, machine learning, data visualization, and analytics.
 
 ## Featured Projects
 
