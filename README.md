@@ -9,13 +9,17 @@ Graduate student focused on data science, cloud engineering, machine learning, d
 Live App:
 https://video-game-sales-dashboard-d4z4scm3appquymxbhzfte.streamlit.app/
 
-Repository:
 https://github.com/Jococh3/video-game-sales-dashboard
 
 ### House Price ML Pipeline
 End-to-end machine learning pipeline using Scikit-Learn.
 
 https://github.com/Jococh3/house-price-pipeline
+
+## weather-data-engineering-pipeline
+End-to-end ETL pipeline using Python, Pandas, SQLite, and the Open-Meteo API.
+
+https://github.com/Jococh3/weather-data-engineering-pipeline
 
 ### Titanic Survival Prediction
 Machine learning classification using Random Forest and Logistic Regression.
